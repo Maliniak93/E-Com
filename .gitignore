@@ -3,3 +3,5 @@ bin
 appsettings.json
 .suo
 *.db
+*.db-wal
+*.db-shm
